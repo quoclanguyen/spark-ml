@@ -14,7 +14,7 @@
 Trong đồ án này, nhóm sử dụng Apache Spark để thực hiện những công việc sau:
 
 - SparkSQL: Dùng để nhập dữ liệu, khám phá dữ liệu, làm sạch dữ liệu
-- SparkML: Dùng để chuẩn bị dữ liệu và xây dựng pipeline, huấn luyện mô hình, đánh giá kết quả và finetune mô hình
+- SparkML: Dùng để chuẩn bị dữ liệu và xây dựng pipeline, huấn luyện mô hình, đánh giá kết quả và hiệu chỉnh mô hình
 
 ### Mô hình huấn luyện
 
